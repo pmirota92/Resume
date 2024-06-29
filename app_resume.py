@@ -21,7 +21,7 @@ Adept at designing and implementing data visualization tools to support business
 Seeking a challenging role as a Power BI Specialist to leverage my skills in data analysis, automation, 
 and visualization to contribute to the success of a forward-thinking organization.
 """
-EMAIL = "pmirota1992@email.com"
+EMAIL = "pmirota1992@gmail.com"
 SOCIAL_MEDIA = {
     "LinkedIn": "https://www.linkedin.com/in/paulina-mirota-02871918b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
     "GitHub": "https://github.com/pmirota92/",
